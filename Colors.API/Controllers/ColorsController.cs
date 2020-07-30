@@ -10,6 +10,7 @@ namespace Colors.API.Controllers
 {
     /// <summary>
     /// A set of APIs to convert colors and compute color metrics
+    /// Test
     /// </summary>
     [ApiController]
     [ApiExplorerSettings(GroupName = "v1")]
